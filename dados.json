@@ -1,0 +1,962 @@
+{
+    "AED": {
+      "moeda": "Dirham dos Emirados Árabes Unidos",
+      "capital": "Abu Dhabi",
+      "latitude": 24.4539,
+      "longitude": 54.3773
+    },
+    "AFN": {
+      "moeda": "Afegane Afegão",
+      "capital": "Cabul",
+      "latitude": 34.5553,
+      "longitude": 69.2075
+    },
+    "ALL": {
+      "moeda": "Lek Albanês",
+      "capital": "Tirana",
+      "latitude": 41.3275,
+      "longitude": 19.8189
+    },
+    "AMD": {
+      "moeda": "Dram Armênio",
+      "capital": "Erevan",
+      "latitude": 40.1792,
+      "longitude": 44.4991
+    },
+    "ANG": {
+      "moeda": "Florim das Antilhas Neerlandesas",
+      "capital": "Willemstad",
+      "latitude": 12.1056,
+      "longitude": -68.9335
+    },
+    "AOA": {
+      "moeda": "Kwanza Angolano",
+      "capital": "Luanda",
+      "latitude": -8.839,
+      "longitude": 13.289
+    },
+    "ARS": {
+      "moeda": "Peso Argentino",
+      "capital": "Buenos Aires",
+      "latitude": -34.6037,
+      "longitude": -58.3816
+    },
+    "AUD": {
+      "moeda": "Dólar Australiano",
+      "capital": "Canberra",
+      "latitude": -35.2809,
+      "longitude": 149.1300
+    },
+    "AWG": {
+      "moeda": "Florim Arubano",
+      "capital": "Oranjestad",
+      "latitude": 12.5211,
+      "longitude": -70.0035
+    },
+    "AZN": {
+      "moeda": "Manat Azeri",
+      "capital": "Baku",
+      "latitude": 40.4093,
+      "longitude": 49.8671
+    },
+    "BAM": {
+      "moeda": "Marco Conversível da Bósnia-Herzegovina",
+      "capital": "Sarajevo",
+      "latitude": 43.8486,
+      "longitude": 18.3564
+    },
+    "BBD": {
+      "moeda": "Dólar de Barbados",
+      "capital": "Bridgetown",
+      "latitude": 13.1,
+      "longitude": -59.6167
+    },
+    "BDT": {
+      "moeda": "Taka de Bangladesh",
+      "capital": "Daca",
+      "latitude": 23.8103,
+      "longitude": 90.4125
+    },
+    "BGN": {
+      "moeda": "Lev Búlgaro",
+      "capital": "Sófia",
+      "latitude": 42.6977,
+      "longitude": 23.3219
+    },
+    "BHD": {
+      "moeda": "Dinar do Bahrein",
+      "capital": "Manama",
+      "latitude": 26.2275,
+      "longitude": 50.5832
+    },
+    "BIF": {
+      "moeda": "Franco Burundiano",
+      "capital": "Bujumbura",
+      "latitude": -3.3731,
+      "longitude": 29.9189
+    },
+    "BMD": {
+      "moeda": "Dólar das Bermudas",
+      "capital": "Hamilton",
+      "latitude": 32.294,
+      "longitude": -64.781
+    },
+    "BND": {
+      "moeda": "Dólar de Brunei",
+      "capital": "Bandar Seri Begawan",
+      "latitude": 4.9031,
+      "longitude": 114.9398
+    },
+    "BOB": {
+      "moeda": "Boliviano",
+      "capital": "Sucre",
+      "latitude": -19.0333,
+      "longitude": -65.2627
+    },
+    "BRL": {
+      "moeda": "Real Brasileiro",
+      "capital": "Brasília",
+      "latitude": -15.7801,
+      "longitude": -47.9292
+    },
+    "BSD": {
+      "moeda": "Dólar das Bahamas",
+      "capital": "Nassau",
+      "latitude": 25.0343,
+      "longitude": -77.3963
+    },
+    "BTN": {
+      "moeda": "Ngultrum do Butão",
+      "capital": "Thimphu",
+      "latitude": 27.4728,
+      "longitude": 89.6399
+    },
+    "BWP": {
+      "moeda": "Pula de Botsuana",
+      "capital": "Gaborone",
+      "latitude": -24.6282,
+      "longitude": 25.9231
+    },
+    "BYN": {
+      "moeda": "Rublo Bielorrusso",
+      "capital": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.5667
+    },
+    "BZD": {
+      "moeda": "Dólar de Belize",
+      "capital": "Belmopan",
+      "latitude": 17.25,
+      "longitude": -88.7667
+    },
+    "CAD": {
+      "moeda": "Dólar Canadense",
+      "capital": "Ottawa",
+      "latitude": 45.4215,
+      "longitude": -75.6992
+    },
+"CDF": {
+    "moeda": "Franco Congolês",
+    "capital": "Kinshasa",
+    "latitude": -4.4419,
+    "longitude": 15.2663
+  },
+  "CHF": {
+    "moeda": "Franco Suíço",
+    "capital": "Berna",
+    "latitude": 46.9481,
+    "longitude": 7.4474
+  },
+  "CLP": {
+    "moeda": "Peso Chileno",
+    "capital": "Santiago",
+    "latitude": -33.4489,
+    "longitude": -70.6693
+  },
+  "CNY": {
+    "moeda": "Yuan Chinês",
+    "capital": "Pequim",
+    "latitude": 39.9042,
+    "longitude": 116.4074
+  },
+  "COP": {
+    "moeda": "Peso Colombiano",
+    "capital": "Bogotá",
+    "latitude": 4.7110,
+    "longitude": -74.0721
+  },
+  "CRC": {
+    "moeda": "Colón Costarriquenho",
+    "capital": "San José",
+    "latitude": 9.9281,
+    "longitude": -84.0907
+  },
+  "CUP": {
+    "moeda": "Peso Cubano",
+    "capital": "Havana",
+    "latitude": 23.1136,
+    "longitude": -82.3666
+  },
+  "CVE": {
+    "moeda": "Escudo Cabo-Verdiano",
+    "capital": "Praia",
+    "latitude": 14.9333,
+    "longitude": -23.5133
+  },
+  "CZK": {
+    "moeda": "Coroa Checa",
+    "capital": "Praga",
+    "latitude": 50.0755,
+    "longitude": 14.4378
+  },
+  "DJF": {
+    "moeda": "Franco Djiboutiano",
+    "capital": "Djibouti",
+    "latitude": 11.8251,
+    "longitude": 42.5903
+  },
+  "DKK": {
+    "moeda": "Coroa Dinamarquesa",
+    "capital": "Copenhague",
+    "latitude": 55.6761,
+    "longitude": 12.5683
+  },
+  "DOP": {
+    "moeda": "Peso Dominicano",
+    "capital": "Santo Domingo",
+    "latitude": 18.4861,
+    "longitude": -69.9312
+  },
+  "DZD": {
+    "moeda": "Dinar Argelino",
+    "capital": "Argel",
+    "latitude": 36.7528,
+    "longitude": 3.0420
+  },
+  "EGP": {
+    "moeda": "Libra Egípcia",
+    "capital": "Cairo",
+    "latitude": 30.0444,
+    "longitude": 31.2357
+  },
+  "ERN": {
+    "moeda": "Nakfa da Eritreia",
+    "capital": "Asmara",
+    "latitude": 15.3323,
+    "longitude": 38.9338
+  },
+  "ETB": {
+    "moeda": "Birr Etíope",
+    "capital": "Adis Abeba",
+    "latitude": 9.03,
+    "longitude": 38.74
+  },
+  "EUR": {
+    "moeda": "Euro",
+    "capital": "Bruxelas",
+    "latitude": 50.8503,
+    "longitude": 4.3517
+  },
+  "FJD": {
+    "moeda": "Dólar de Fiji",
+    "capital": "Suva",
+    "latitude": -18.1416,
+    "longitude": 178.4419
+  },
+  "FKP": {
+    "moeda": "Libra das Ilhas Malvinas",
+    "capital": "Stanley",
+    "latitude": -51.6923,
+    "longitude": -57.8497
+  },
+  "FOK": {
+    "moeda": "Coroa das Ilhas Faroé",
+    "capital": "Tórshavn",
+    "latitude": 62.0097,
+    "longitude": -6.7803
+  },
+  "GBP": {
+    "moeda": "Libra Esterlina",
+    "capital": "Londres",
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  "GEL": {
+    "moeda": "Lari Georgiano",
+    "capital": "Tbilisi",
+    "latitude": 41.7151,
+    "longitude": 44.8271
+  },
+  "GGP": {
+    "moeda": "Libra de Guernsey",
+    "capital": "St. Peter Port",
+    "latitude": 49.4561,
+    "longitude": -2.5857
+  },
+  "GHS": {
+    "moeda": "Cedi Ganês",
+    "capital": "Acra",
+    "latitude": 5.6037,
+    "longitude": -0.1870
+  },
+  "GIP": {
+    "moeda": "Libra de Gibraltar",
+    "capital": "Gibraltar",
+    "latitude": 36.1408,
+    "longitude": -5.3536
+  },
+  "GMD": {
+    "moeda": "Dalasi da Gâmbia",
+    "capital": "Banjul",
+    "latitude": 13.4549,
+    "longitude": -16.5790
+  },
+  "GNF": {
+    "moeda": "Franco Guineense",
+    "capital": "Conakry",
+    "latitude": 9.5095,
+    "longitude": -13.7127
+  },
+  "GTQ": {
+    "moeda": "Quetzal da Guatemala",
+    "capital": "Cidade da Guatemala",
+    "latitude": 14.6349,
+    "longitude": -90.5069
+  },
+  "GYD": {
+    "moeda": "Dólar da Guiana",
+    "capital": "Georgetown",
+    "latitude": 6.8013,
+    "longitude": -58.1550
+  },
+  "HKD": {
+    "moeda": "Dólar de Hong Kong",
+    "capital": "Hong Kong",
+    "latitude": 22.3193,
+    "longitude": 114.1694
+  },
+  "HNL": {
+    "moeda": "Lempira Hondurenha",
+    "capital": "Tegucigalpa",
+    "latitude": 13.9897,
+    "longitude": -14.4170
+  },
+  "HRK": {
+    "moeda": "Kuna Croata",
+    "capital": "Zagreb",
+    "latitude": 45.8131,
+    "longitude": 15.978
+  },
+  "HTG": {
+    "moeda": "Gourde Haitiano",
+    "capital": "Porto Príncipe",
+    "latitude": 18.5944,
+    "longitude": -72.3074
+  },
+  "HUF": {
+    "moeda": "Forint Húngaro",
+    "capital": "Budapeste",
+    "latitude": 47.4979,
+    "longitude": 19.0402
+  },
+  "IDR": {
+    "moeda": "Rupia Indonésia",
+    "capital": "Jacarta",
+    "latitude": -6.2088,
+    "longitude": 106.8456
+  },
+  "ILS": {
+    "moeda": "Novo Shekel Israelense",
+    "capital": "Jerusalém",
+    "latitude": 31.7683,
+    "longitude": 35.2137
+  },
+  "IMP": {
+    "moeda": "Libra da Ilha de Man",
+    "capital": "Douglas",
+    "latitude": 54.1570,
+    "longitude": -4.4793
+  },
+  "INR": {
+    "moeda": "Rúpia Indiana",
+    "capital": "Nova Délhi",
+    "latitude": 28.6139,
+    "longitude": 77.2090
+  },
+  "IQD": {
+    "moeda": "Dinar Iraquiano",
+    "capital": "Bagdá",
+    "latitude": 33.3152,
+    "longitude": 44.3661
+  },
+  "IRR": {
+    "moeda": "Rial Iraniano",
+    "capital": "Teerã",
+    "latitude": 35.6892,
+    "longitude": 51.3890
+  },
+  "ISK": {
+    "moeda": "Coroa Islandesa",
+    "capital": "Reykjavik",
+    "latitude": 64.1355,
+    "longitude": -21.8954
+  },
+  "JEP": {
+    "moeda": "Libra de Jersey",
+    "capital": "Saint Helier",
+    "latitude": 49.1900,
+    "longitude": -2.1075
+  },
+  "JMD": {
+    "moeda": "Dólar Jamaicano",
+    "capital": "Kingston",
+    "latitude": 17.9714,
+    "longitude": -76.7936
+  },
+  "JOD": {
+    "moeda": "Dinar Jordaniano",
+    "capital": "Amã",
+    "latitude": 31.9552,
+    "longitude": 35.9450
+  },
+  "JPY": {
+    "moeda": "Iene Japonês",
+    "capital": "Tóquio",
+    "latitude": 35.6762,
+    "longitude": 139.6503
+  },
+  "KES": {
+    "moeda": "Xelim Queniano",
+    "capital": "Nairobi",
+    "latitude": -1.2867,
+    "longitude": 36.8172
+  },
+  "KGS": {
+    "moeda": "Som Quirguiz",
+    "capital": "Bishkek",
+    "latitude": 42.8746,
+    "longitude": 74.6123
+  },
+  "KHR": {
+    "moeda": "Riel Cambojano",
+    "capital": "Phnom Penh",
+    "latitude": 11.5564,
+    "longitude": 104.9282
+  },
+  "KID": {
+    "moeda": "Dólar de Kiribati",
+    "capital": "South Tarawa",
+    "latitude": 1.4511,
+    "longitude": 173.0000
+  },
+  "KMF": {
+    "moeda": "Franco Comoriano",
+    "capital": "Moroni",
+    "latitude": -11.7030,
+    "longitude": 43.2550
+  },
+  "KRW": {
+    "moeda": "Won Sul-Coreano",
+    "capital": "Seul",
+    "latitude": 37.5665,
+    "longitude": 126.9780
+  },
+  "KWD": {
+    "moeda": "Dinar Kuwaitiano",
+    "capital": "Cuat",
+    "latitude": 29.3759,
+    "longitude": 47.9774
+  },
+  "KYD": {
+    "moeda": "Dólar das Ilhas Cayman",
+    "capital": "George Town",
+    "latitude": 19.3131,
+    "longitude": -81.2546
+  },
+  "KZT": {
+    "moeda": "Tenge Cazaque",
+    "capital": "Astana",
+    "latitude": 51.1694,
+    "longitude": 71.4491
+  },
+  "LAK": {
+    "moeda": "Kip Laosiano",
+    "capital": "Vientiane",
+    "latitude": 17.9757,
+    "longitude": 102.6331
+  },
+  "LBP": {
+    "moeda": "Libra Libanesa",
+    "capital": "Beirute",
+    "latitude": 33.8938,
+    "longitude": 35.5018
+  },
+  "LKR": {
+    "moeda": "Rúpia de Sri Lanka",
+    "capital": "Colombo",
+    "latitude": 6.9271,
+    "longitude": 79.8612
+  },
+  "LRD": {
+    "moeda": "Dólar Liberiano",
+    "capital": "Monróvia",
+    "latitude": 6.4281,
+    "longitude": -9.4295
+  },
+  "LSL": {
+    "moeda": "Loti do Lesoto",
+    "capital": "Maseru",
+    "latitude": -29.31,
+    "longitude": 27.4813
+  },
+  "LYD": {
+    "moeda": "Dinar Líbio",
+    "capital": "Trípoli",
+    "latitude": 32.8872,
+    "longitude": 13.1914
+  },
+  "MAD": {
+    "moeda": "Dirham Marroquino",
+    "capital": "Rabat",
+    "latitude": 34.020882,
+    "longitude": -6.84165
+  },
+  "MDL": {
+    "moeda": "Leu Moldavo",
+    "capital": "Chisinau",
+    "latitude": 47.0105,
+    "longitude": 28.8638
+  },
+  "MGA": {
+    "moeda": "Ariary Malgaxe",
+    "capital": "Antananarivo",
+    "latitude": -18.8792,
+    "longitude": 47.5079
+  },
+  "MKD": {
+    "moeda": "Dinar Macedônio",
+    "capital": "Skopje",
+    "latitude": 41.9981,
+    "longitude": 21.4254
+  },
+  "MMK": {
+    "moeda": "Kyat de Mianmar",
+    "capital": "Naypyidaw",
+    "latitude": 19.7633,
+    "longitude": 96.0785
+  },
+  "MNT": {
+    "moeda": "Tugrik Mongol",
+    "capital": "Ulan Bator",
+    "latitude": 47.8864,
+    "longitude": 106.9057
+  },
+  "MOP": {
+    "moeda": "Pataca de Macau",
+    "capital": "Macau",
+    "latitude": 22.1987,
+    "longitude": 113.5439
+  },
+  "MRU": {
+    "moeda": "Ouguiya Mauritana",
+    "capital": "Nouakchott",
+    "latitude": 18.0858,
+    "longitude": -15.978
+  },
+  "MUR": {
+    "moeda": "Rúpia Mauriciana",
+    "capital": "Port Louis",
+    "latitude": -20.1604,
+    "longitude": 57.4976
+  },
+  "MVR": {
+    "moeda": "Rufiyaa Maldiva",
+    "capital": "Malé",
+    "latitude": 4.1755,
+    "longitude": 73.5093
+  },
+  "MWK": {
+    "moeda": "Kwacha Malauiano",
+    "capital": "Lilongwe",
+    "latitude": -13.2543,
+    "longitude": 34.3015
+  },
+  "MXN": {
+    "moeda": "Peso Mexicano",
+    "capital": "Cidade do México",
+    "latitude": 19.4326,
+    "longitude": -99.1332
+  },
+  "MYR": {
+    "moeda": "Ringgit Malaio",
+    "capital": "Kuala Lumpur",
+    "latitude": 3.1390,
+    "longitude": 101.6869
+  },
+  "MZN": {
+    "moeda": "Metical Moçambicano",
+    "capital": "Maputo",
+    "latitude": -25.9655,
+    "longitude": 32.5832
+  },
+  "NAD": {
+    "moeda": "Dólar Namibiano",
+    "capital": "Windhoek",
+    "latitude": -22.5597,
+    "longitude": 17.0836
+  },
+  "NGN": {
+    "moeda": "Naira Nigeriana",
+    "capital": "Abuja",
+    "latitude": 9.0579,
+    "longitude": 7.4951
+  },
+  "NIO": {
+    "moeda": "Córdoba Nicaraguense",
+    "capital": "Manágua",
+    "latitude": 12.1364,
+    "longitude": -86.2514
+  },
+  "NOK": {
+    "moeda": "Coroa Norueguesa",
+    "capital": "Oslo",
+    "latitude": 59.9139,
+    "longitude": 10.7522
+  },
+  "NPR": {
+    "moeda": "Rúpia Nepalesa",
+    "capital": "Catmandu",
+    "latitude": 27.7000,
+    "longitude": 85.3333
+  },
+  "NZD": {
+    "moeda": "Dólar Neozelandês",
+    "capital": "Wellington",
+    "latitude": -41.2867,
+    "longitude": 174.7762
+  },
+  "OMR": {
+    "moeda": "Rial Omanense",
+    "capital": "Mascate",
+    "latitude": 23.5880,
+    "longitude": 58.3829
+  },
+  "PAB": {
+    "moeda": "Balboa Panamenha",
+    "capital": "Cidade do Panamá",
+    "latitude": 8.9833,
+    "longitude": -79.5167
+  },
+  "PEN": {
+    "moeda": "Sol Peruano",
+    "capital": "Lima",
+    "latitude": -12.0464,
+    "longitude": -77.0428
+  },
+  "PGK": {
+    "moeda": "Kina Papua-Nova Guiné",
+    "capital": "Port Moresby",
+    "latitude": -9.4438,
+    "longitude": 147.1803
+  },
+  "PHP": {
+    "moeda": "Peso Filipino",
+    "capital": "Manila",
+    "latitude": 14.5995,
+    "longitude": 120.9842
+  },
+  "PKR": {
+    "moeda": "Rúpia Paquistanesa",
+    "capital": "Islamabad",
+    "latitude": 33.6844,
+    "longitude": 73.0479
+  },
+  "PLN": {
+    "moeda": "Zloty Polonês",
+    "capital": "Varsóvia",
+    "latitude": 52.2298,
+    "longitude": 21.0118
+  },
+  "PYG": {
+    "moeda": "Guarani Paraguaio",
+    "capital": "Assunção",
+    "latitude": -25.2637,
+    "longitude": -57.5759
+  },
+  "QAR": {
+    "moeda": "Rial Catariano",
+    "capital": "Doha",
+    "latitude": 25.276987,
+    "longitude": 51.520008
+  },
+  "RON": {
+    "moeda": "Leu Romeno",
+    "capital": "Bucareste",
+    "latitude": 44.4268,
+    "longitude": 26.1025
+  },
+  "RSD": {
+    "moeda": "Dinar Sérvio",
+    "capital": "Belgrado",
+    "latitude": 44.8176,
+    "longitude": 20.4633
+  },
+  "RUB": {
+    "moeda": "Rublo Russo",
+    "capital": "Moscovo",
+    "latitude": 55.7558,
+    "longitude": 37.6173
+  },
+  "RWF": {
+    "moeda": "Franco Ruandês",
+    "capital": "Kigali",
+    "latitude": -1.9462,
+    "longitude": 30.0619
+  },
+  "SAR": {
+    "moeda": "Rial Saudita",
+    "capital": "Riad",
+    "latitude": 24.7136,
+    "longitude": 46.6753
+  },
+  "SBD": {
+    "moeda": "Dólar das Ilhas Salomão",
+    "capital": "Honiara",
+    "latitude": -9.4333,
+    "longitude": 159.9500
+  },
+  "SCR": {
+    "moeda": "Rúpia de Seicheles",
+    "capital": "Victoria",
+    "latitude": -4.6167,
+    "longitude": 55.4519
+  },
+  "SDG": {
+    "moeda": "Libra Sudanesa",
+    "capital": "Cartum",
+    "latitude": 15.5007,
+    "longitude": 32.5599
+  },
+  "SEK": {
+    "moeda": "Coroa Sueca",
+    "capital": "Estocolmo",
+    "latitude": 59.3293,
+    "longitude": 18.0686
+  },
+  "SGD": {
+    "moeda": "Dólar de Cingapura",
+    "capital": "Cingapura",
+    "latitude": 1.3521,
+    "longitude": 103.8198
+  },
+  "SHP": {
+    "moeda": "Libra de Santa Helena",
+    "capital": "Jamestown",
+    "latitude": -15.9319,
+    "longitude": -5.7086
+  },
+  "SLE": {
+    "moeda": "Leone de Serra Leoa",
+    "capital": "Freetown",
+    "latitude": 8.4657,
+    "longitude": -13.2317
+  },
+  "SOS": {
+    "moeda": "Xelim Somali",
+    "capital": "Mogadíscio",
+    "latitude": 2.0469,
+    "longitude": 45.3182
+  },
+  "SRD": {
+    "moeda": "Dólar do Suriname",
+    "capital": "Paramaribo",
+    "latitude": 5.8663,
+    "longitude": -55.1714
+  },
+  "SSP": {
+    "moeda": "Libra Sul-Sudanesa",
+    "capital": "Juba",
+    "latitude": 4.8594,
+    "longitude": 31.5820
+  },
+  "STN": {
+    "moeda": "Dobra de São Tomé e Príncipe",
+    "capital": "São Tomé",
+    "latitude": 0.3361,
+    "longitude": 6.7272
+  },
+  "SYP": {
+    "moeda": "Libra Síria",
+    "capital": "Damasco",
+    "latitude": 33.5138,
+    "longitude": 36.2765
+  },
+  "SZL": {
+    "moeda": "Lilangeni Suazi",
+    "capital": "Mbabane",
+    "latitude": -26.3059,
+    "longitude": 31.1404
+  },
+  "THB": {
+    "moeda": "Baht Tailandês",
+    "capital": "Bangcoc",
+    "latitude": 13.7563,
+    "longitude": 100.5018
+  },
+  "TJS": {
+    "moeda": "Somoni Tajique",
+    "capital": "Duchambé",
+    "latitude": 38.5598,
+    "longitude": 68.7870
+  },
+  "TMT": {
+    "moeda": "Manat Turcomeno",
+    "capital": "Ashgabat",
+    "latitude": 37.9601,
+    "longitude": 58.3790
+  },
+  "TND": {
+    "moeda": "Dinar Tunisiano",
+    "capital": "Túnis",
+    "latitude": 36.8065,
+    "longitude": 10.1815
+  },
+  "TOP": {
+    "moeda": "Pa'anga de Tonga",
+    "capital": "Nukualofa",
+    "latitude": -21.1395,
+    "longitude": -175.2047
+  },
+  "TRY": {
+    "moeda": "Lira Turca",
+    "capital": "Ankara",
+    "latitude": 39.9334,
+    "longitude": 32.8597
+  },
+  "TTD": {
+    "moeda": "Dólar de Trinidad e Tobago",
+    "capital": "Porto de Espanha",
+    "latitude": 10.6522,
+    "longitude": -61.5160
+  },
+  "TVD": {
+    "moeda": "Dólar Tuvaluano",
+    "capital": "Funafuti",
+    "latitude": -7.4855,
+    "longitude": 179.1940
+  },
+  "TWD": {
+    "moeda": "Novo Dólar Taiwanês",
+    "capital": "Taipei",
+    "latitude": 25.0330,
+    "longitude": 121.5654
+  },
+  "TZS": {
+    "moeda": "Xelim Tanzaniano",
+    "capital": "Dodoma",
+    "latitude": -6.1659,
+    "longitude": 35.7510
+  },
+  "UAH": {
+    "moeda": "Hryvnia Ucraniana",
+    "capital": "Kiev",
+    "latitude": 50.4501,
+    "longitude": 30.5236
+  },
+  "UGX": {
+    "moeda": "Xelim Ugandês",
+    "capital": "Kampala",
+    "latitude": 0.3136,
+    "longitude": 32.5810
+  },
+  "UYU": {
+    "moeda": "Peso Uruguaio",
+    "capital": "Montevidéu",
+    "latitude": -34.9011,
+    "longitude": -56.1645
+  },
+  "UZS": {
+    "moeda": "Som Uzbeque",
+    "capital": "Tashkent",
+    "latitude": 41.2995,
+    "longitude": 69.2401
+  },
+  "VES": {
+    "moeda": "Bolívar Venezuelano",
+    "capital": "Caracas",
+    "latitude": 10.4806,
+    "longitude": -66.9036
+  },
+  "VND": {
+    "moeda": "Dong Vietnamita",
+    "capital": "Hanói",
+    "latitude": 21.0285,
+    "longitude": 105.8542
+  },
+  "VUV": {
+    "moeda": "Vatu Vanuatuense",
+    "capital": "Port Vila",
+    "latitude": -17.7333,
+    "longitude": 168.3219
+  },
+  "WST": {
+    "moeda": "Tala Samoano",
+    "capital": "Apia",
+    "latitude": -13.8333,
+    "longitude": -172.0000
+  },
+  "XAF": {
+    "moeda": "Franco CFA BEAC",
+    "capital": "Yaoundé",
+    "latitude": 3.8480,
+    "longitude": 11.5021
+  },
+  "XCD": {
+    "moeda": "Dólar do Caribe Oriental",
+    "capital": "Castries",
+    "latitude": 13.9985,
+    "longitude": -61.0033
+  },
+  "XDR": {
+    "moeda": "Direitos Especiais de Saque (FMI)",
+    "capital": "Não aplicável",
+    "latitude": 0,
+    "longitude": 0
+  },
+  "XOF": {
+    "moeda": "Franco CFA BCEAO",
+    "capital": "Abidjan",
+    "latitude": 5.3453,
+    "longitude": -4.0244
+  },
+  "XPF": {
+    "moeda": "Franco CFP",
+    "capital": "Papeete",
+    "latitude": -17.5350,
+    "longitude": -149.5690
+  },
+  "YER": {
+    "moeda": "Rial Iemenita",
+    "capital": "Sanaa",
+    "latitude": 15.3694,
+    "longitude": 44.1910
+  },
+  "ZAR": {
+    "moeda": "Rand Sul-Africano",
+    "capital": "Pretória",
+    "latitude": -25.7461,
+    "longitude": 28.1881
+  },
+  "ZMW": {
+    "moeda": "Kwacha Zambiano",
+    "capital": "Lusaca",
+    "latitude": -15.3875,
+    "longitude": 28.3228
+  },
+  "ZWL": {
+    "moeda": "Dólar Zimbabuano",
+    "capital": "Harare",
+    "latitude": -17.8292,
+    "longitude": 31.0522
+  }
+}
